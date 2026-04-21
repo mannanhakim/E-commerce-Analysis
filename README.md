@@ -1,21 +1,21 @@
-# 🛍️ E-Commerce Data Analysis Dashboard
+# E-Commerce Data Analysis Dashboard
 
 An end-to-end eCommerce analytics project focused on revenue optimisation, customer behaviour, and conversion funnel analysis using Power BI.
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
-### 🔹 Overview
+### Overview
 ![Overview](images/overview.png)
 
-### 🔹 Customer Analysis
+### Customer Analysis
 ![Customer Analysis](images/customer_analysis.png)
 
-### 🔹 Conversion Funnel
+### Conversion Funnel
 ![Funnel](images/coversions_and_growth.png)
 
-### 🔹 Executive Summary
+### Executive Summary
 ![Executive Summary](images/summary.png)
 
 ---
