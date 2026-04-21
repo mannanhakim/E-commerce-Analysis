@@ -13,7 +13,7 @@ An end-to-end eCommerce analytics project focused on revenue optimisation, custo
 ![Customer Analysis](images/customer_analysis.png)
 
 ### Conversion Funnel
-![Funnel](images/coversions_and_growth.png)
+![Funnel](images/conversions_and_growth.png)
 
 ### Executive Summary
 ![Executive Summary](images/summary.png)
