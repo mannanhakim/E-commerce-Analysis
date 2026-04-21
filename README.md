@@ -13,7 +13,7 @@ An end-to-end business intelligence project analysing customer behaviour, conver
 ![Customer Analysis](images/customer_analysis.png)
 
 ### Conversion Funnel
-![Funnel](images/funnel.png)
+![Funnel](images/conversions_and_growth.png)
 
 ### Executive Summary
 ![Executive Summary](images/summary.png)
