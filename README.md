@@ -143,8 +143,8 @@ Interactive Power BI dashboard showcasing performance, customer insights, and co
 
 ## Project Files
 
-- Dashboard: dashboard/Ecommerce Project.pbix  
-- PDF: dashboard/Ecommerce Project.pdf
+- Dashboard: dashboard/ecommerce_project.pbix  
+- PDF: dashboard/ecommerce_project.pdf
 
 ---
 
