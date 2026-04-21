@@ -82,6 +82,6 @@ An end-to-end business intelligence project analysing customer behaviour, conver
 
 ## Author
 
-Mannan Hakim  
-MBA | Data Analyst
+Mannan Hakim   
+MBA | Data Analyst      
 LinkedIn: www.linkedin.com/in/mannan-hakim-aa654a250
