@@ -6,6 +6,8 @@ An end-to-end eCommerce analytics project focused on revenue optimisation, custo
 
 ## Dashboard Preview
 
+Interactive Power BI dashboard showcasing performance, customer insights, and conversion optimisation opportunities:
+
 ### Overview
 ![Overview](images/overview.png)
 
@@ -83,7 +85,7 @@ An end-to-end eCommerce analytics project focused on revenue optimisation, custo
 
 ---
 
-## Business Impact
+## Estimated Business Impact
 
 - Estimated revenue uplift: **£10.78K** from conversion optimisation  
 - Additional growth potential through retention and targeting strategies  
@@ -109,6 +111,26 @@ An end-to-end eCommerce analytics project focused on revenue optimisation, custo
 
 ---
 
+## Key Metrics
+
+- Conversion Rate  
+- Average Order Value (AOV)  
+- Revenue  
+- Order Volume  
+- Customer Retention  
+- Cart Abandonment Rate  
+
+---
+
+## Limitations
+
+- Dataset does not include real user session tracking (simulated funnel)  
+- No direct GA4 integration  
+- Limited time range (7 days of data)  
+- Assumptions made for A/B testing simulation
+
+---
+
 ## Dataset
 
 - UCI Machine Learning Repository:  
@@ -116,6 +138,13 @@ An end-to-end eCommerce analytics project focused on revenue optimisation, custo
 
 - Kaggle Dataset:  
   https://www.kaggle.com/datasets/vijayuv/onlineretail  
+
+---
+
+## Project Files
+
+- Dashboard: dashboard/Ecommerce Project.pbix  
+- PDF: dashboard/Ecommerce Project.pdf
 
 ---
 
