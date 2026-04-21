@@ -17,7 +17,7 @@ An end-to-end business intelligence project analysing customer behaviour, conver
 
 ### Executive Summary
 ![Executive Summary](images/summary.png)
-(How to add images in this parts?)
+
 ---
 
 ## Business Problem
